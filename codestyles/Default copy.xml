@@ -1,4 +1,4 @@
-<code_scheme name="Default" version="173">
+<code_scheme name="Default copy" version="173">
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
@@ -9,12 +9,8 @@
       <value>
         <package name="" withSubpackages="true" static="true" />
         <emptyLine />
-        <package name="com" withSubpackages="true" static="false" />
-        <package name="java" withSubpackages="false" static="false" />
-        <package name="javax" withSubpackages="true" static="false" />
-        <package name="org" withSubpackages="true" static="false" />
-        <package name="" withSubpackages="true" static="false" />
         <emptyLine />
+        <package name="" withSubpackages="true" static="false" />
       </value>
     </option>
   </JavaCodeStyleSettings>
@@ -43,6 +39,20 @@
     </formatting-settings>
   </DBN-SQL>
   <codeStyleSettings language="JAVA">
+    <option name="RIGHT_MARGIN" value="100" />
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="BLANK_LINES_BEFORE_PACKAGE" value="1" />
+    <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
+    <option name="SPACE_BEFORE_ANNOTATION_ARRAY_INITIALIZER_LBRACE" value="true" />
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
+    <option name="IF_BRACE_FORCE" value="3" />
+    <option name="DOWHILE_BRACE_FORCE" value="3" />
+    <option name="WHILE_BRACE_FORCE" value="3" />
+    <option name="FOR_BRACE_FORCE" value="3" />
+    <option name="WRAP_LONG_LINES" value="true" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
