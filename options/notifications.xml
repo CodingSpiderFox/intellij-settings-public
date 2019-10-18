@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="izhangzhihao.rainbow.brackets" />
+    <notification groupId="Lombok plugin" />
+  </component>
+</application>
